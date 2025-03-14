@@ -2,7 +2,7 @@
 常用解压工具
 
 
-Usage: unpackage [source] [destination]
+Usage: unpack [source] [destination]
 
 ```
 Example:
