@@ -37,7 +37,7 @@ func mockUnPack() {
 
 func main() {
 	if len(os.Args) < 3 {
-		println("Usage: unpackage source destination")
+		println("Usage: unpack [source] [destination]")
 		println("Example:")
 		println("解压test.rar到E盘我的文件夹")
 		println(".\\unpack.exe .\\test.rar  E:\\我的文件夹\\")
